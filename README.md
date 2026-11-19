@@ -1,11 +1,13 @@
 # E-Commerce Analysis – UCI Online Retail
 
-## Project Objective
-Explore and analyze the UCI Online Retail dataset using Python and Pandas to clean real-world transaction data, calculate revenue, and identify the top 10 countries by total revenue.
-
 ## Project URL
 
-https://github.com/Harishbroo/ecommerce-sales-analysis/blob/main/ecommerce_analysis.ipynb
+Project page: https://roadmap.sh/projects/ecommerce-data-analysis
+
+Notebook: https://github.com/Harishbroo/ecommerce-sales-analysis/blob/main/ecommerce_analysis.ipynb
+
+## Project Objective
+Explore and analyze the UCI Online Retail dataset using Python and Pandas to clean real-world transaction data, calculate revenue, and identify the top 10 countries by total revenue.
 
 ## Dataset
 - **Source:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
@@ -34,6 +36,11 @@ https://github.com/Harishbroo/ecommerce-sales-analysis/blob/main/ecommerce_analy
 
 ## Key Outcome
 Identified the highest-revenue countries and visualized their revenue distribution. A separate visualization was created to compare international markets without the UK dominating the results.
+
+## How to Run
+1. Download `Online Retail.csv` from [UCI](https://archive.ics.uci.edu/dataset/352/online+retail) or Kaggle and place it in the same folder as the notebook.
+2. Install the requirements: `pip install pandas numpy matplotlib seaborn jupyter`
+3. Open `ecommerce_analysis.ipynb` in Jupyter and run all cells.
 
 ## Note
 The analysis uses a random 10% sample of the original dataset. Therefore, revenue figures are estimates and may differ from full-dataset results.
