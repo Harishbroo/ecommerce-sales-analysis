@@ -5,7 +5,7 @@ Explore and analyze the UCI Online Retail dataset using Python and Pandas to cle
 
 ## Project URL
 
-[View E-Commerce Analysis Notebook](https://github.com/Harishbroo/ecommerce-sales-analysis/blob/main/ecommerce_analysis.ipynb)
+https://github.com/Harishbroo/ecommerce-sales-analysis/blob/main/ecommerce_analysis.ipynb
 
 ## Dataset
 - **Source:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
