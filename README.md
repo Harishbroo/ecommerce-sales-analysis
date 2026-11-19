@@ -4,7 +4,7 @@
 Explore and analyze the UCI Online Retail dataset using Python and Pandas to clean real-world transaction data, calculate revenue, and identify the top 10 countries by total revenue.
 
 ## Project URL
-[View E-Commerce Analysis Project](PASTE_YOUR_GITHUB_REPOSITORY_URL_HERE)
+[View E-Commerce Analysis Project](https://github.com/Harishbroo/ecommerce-sales-analysis)
 
 ## Dataset
 - **Source:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
@@ -35,4 +35,4 @@ Explore and analyze the UCI Online Retail dataset using Python and Pandas to cle
 Identified the highest-revenue countries and visualized their revenue distribution. A separate visualization was created to compare international markets without the UK dominating the results.
 
 ## Note
-The analysis uses a random 10% sample of the original dataset. Therefore, revenue figures are estimates and may differ from full-dataset results.</
+The analysis uses a random 10% sample of the original dataset. Therefore, revenue figures are estimates and may differ from full-dataset results.
