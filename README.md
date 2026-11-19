@@ -4,7 +4,8 @@
 Explore and analyze the UCI Online Retail dataset using Python and Pandas to clean real-world transaction data, calculate revenue, and identify the top 10 countries by total revenue.
 
 ## Project URL
-[View E-Commerce Analysis Project](https://github.com/Harishbroo/ecommerce-sales-analysis)
+
+[View E-Commerce Analysis Notebook](https://github.com/Harishbroo/ecommerce-sales-analysis/blob/main/ecommerce_analysis.ipynb)
 
 ## Dataset
 - **Source:** [UCI Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
